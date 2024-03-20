@@ -17,9 +17,6 @@ red.addEventListener("click", function () {
   body.style.backgroundColor = "red";
 });
 
-function changeToGreen() {
-  body.style.backgroundColor = "green";
-}
 green.addEventListener("click", function () {
   body.style.backgroundColor = "green";
 });
