@@ -1,0 +1,28 @@
+.button {
+  border: 1px solid black;
+  border-radius: 5px;
+  font-size: 2rem;
+}
+
+main {
+  height: 100vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#red {
+  background-color: red;
+}
+#green {
+  background-color: green;
+}
+#random {
+  background-color: lightblue;
+}
+#yellow {
+  background-color: yellow;
+}
+#blue {
+  background-color: rgb(67, 67, 224);
+}
